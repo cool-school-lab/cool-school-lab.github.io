@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cool-school-lab.github.io/sitemap.xml
